@@ -1,0 +1,8 @@
+.keys {
+  transition: all 0.7s ease;
+  width: 10rem;
+}
+
+.playing {
+  transform: scale(1.1);
+}
